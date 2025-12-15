@@ -1,0 +1,54 @@
+{
+  "data_sources": {
+    "rusprofile_base_url": "https://www.rusprofile.ru",
+    "spark_base_url": "https://spark-interfax.ru",
+    "listorg_base_url": "https://www.list-org.com",
+    "hh_api_url": "https://api.hh.ru"
+  },
+  "search_params": {
+    "min_revenue": 100000000,
+    "revenue_year": 2023,
+    "keywords_cat": [
+      "translation memory",
+      "tm",
+      "tms",
+      "cat-систем",
+      "cat tool",
+      "локализация",
+      "компьютерная поддержка перевода",
+      "терминологическая база",
+      "memoq",
+      "trados",
+      "smartcat",
+      "memsource",
+      "phrase",
+      "xtm",
+      "wordfast",
+      "переводческ"
+    ],
+    "cat_products": [
+      "SDL Trados",
+      "memoQ",
+      "Smartcat",
+      "Memsource",
+      "Phrase",
+      "XTM",
+      "Wordfast",
+      "Transit",
+      "Across",
+      "Лингвотек",
+      "Промт"
+    ]
+  },
+  "parsing": {
+    "timeout": 10,
+    "max_retries": 3,
+    "delay_between_requests": 1,
+    "user_agent_rotation": true
+  },
+  "output": {
+    "csv_encoding": "utf-8-sig",
+    "csv_separator": ",",
+    "log_level": "INFO"
+  }
+}

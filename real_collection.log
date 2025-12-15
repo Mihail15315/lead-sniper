@@ -1,0 +1,212 @@
+2025-12-15 16:57:47,465 - INFO - Начинаю сбор данных для 65 компаний
+2025-12-15 16:57:47,465 - INFO - Обрабатываю компанию 1/65: АББВЫ
+2025-12-15 16:57:48,438 - WARNING - Не удалось проверить сайт https://www.abbyy.ru/: HTTPSConnectionPool(host='www.abbyy.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='www.abbyy.ru', port=443): Failed to resolve 'www.abbyy.ru' ([Errno 11001] getaddrinfo failed)"))
+2025-12-15 16:57:48,439 - ERROR - Ошибка обработки компании АББВЫ: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 16:57:48,439 - INFO - Обрабатываю компанию 2/65: ПРОМТ
+2025-12-15 16:58:00,889 - INFO -   ✓ Добавлена: ПРОМТ (1,435,357,933 ₽)
+2025-12-15 16:58:04,600 - INFO - Обрабатываю компанию 3/65: Бюро переводов iTrex
+2025-12-15 16:59:12,771 - INFO -   ✓ Добавлена: Бюро переводов iTrex (2,061,010,503 ₽)
+2025-12-15 16:59:14,957 - INFO - Обрабатываю компанию 4/65: ТрансЛинк
+2025-12-15 16:59:18,948 - WARNING - Не удалось проверить сайт https://www.translink.ru/: HTTPSConnectionPool(host='www.translink.ru', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPSConnection(host='www.translink.ru', port=443): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение"))
+2025-12-15 16:59:18,948 - ERROR - Ошибка обработки компании ТрансЛинк: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 16:59:18,948 - INFO - Обрабатываю компанию 5/65: НеоТек
+2025-12-15 16:59:22,886 - INFO -   ✓ Добавлена: НеоТек (2,433,884,204 ₽)
+2025-12-15 16:59:32,439 - INFO - Обрабатываю компанию 6/65: Бюро переводов Альба
+2025-12-15 16:59:36,257 - INFO -   ✓ Добавлена: Бюро переводов Альба (568,518,929 ₽)
+2025-12-15 16:59:39,950 - INFO - Обрабатываю компанию 7/65: Мир перевода
+2025-12-15 16:59:44,428 - INFO -   ✓ Добавлена: Мир перевода (1,291,074,778 ₽)
+2025-12-15 16:59:48,104 - INFO - Обрабатываю компанию 8/65: Прима Виста
+2025-12-15 17:03:52,409 - INFO -   ✓ Добавлена: Прима Виста (1,940,134,586 ₽)
+2025-12-15 17:03:54,857 - INFO - Обрабатываю компанию 9/65: ЛингваКонтакт
+2025-12-15 17:03:57,560 - INFO -   ✓ Добавлена: ЛингваКонтакт (569,249,052 ₽)
+2025-12-15 17:03:59,714 - INFO - Обрабатываю компанию 10/65: Лингвотек
+2025-12-15 17:04:02,843 - WARNING - Не удалось проверить сайт https://lingvotek.ru/: HTTPSConnectionPool(host='lingvotek.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='lingvotek.ru', port=443): Failed to resolve 'lingvotek.ru' ([Errno 11001] getaddrinfo failed)"))
+2025-12-15 17:04:02,843 - INFO -   ✓ Добавлена: Лингвотек (3,095,338,465 ₽)
+2025-12-15 17:04:08,118 - INFO - Обрабатываю компанию 11/65: ТопПеревод
+2025-12-15 17:04:11,909 - WARNING - Не удалось проверить сайт https://top-perevod.ru/: HTTPSConnectionPool(host='top-perevod.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='top-perevod.ru', port=443): Failed to resolve 'top-perevod.ru' ([Errno 11001] getaddrinfo failed)"))
+2025-12-15 17:04:11,909 - INFO -   ✓ Добавлена: ТопПеревод (2,457,795,541 ₽)
+2025-12-15 17:04:15,005 - INFO - Обрабатываю компанию 12/65: РГ-Техно
+2025-12-15 17:04:18,736 - INFO -   ✓ Добавлена: РГ-Техно (2,416,805,770 ₽)
+2025-12-15 17:04:20,838 - INFO - Обрабатываю компанию 13/65: Фларус
+2025-12-15 17:04:25,180 - INFO -   ✓ Добавлена: Фларус (1,480,914,484 ₽)
+2025-12-15 17:04:28,736 - INFO - Обрабатываю компанию 14/65: Альянс-Перевод
+2025-12-15 17:04:34,749 - WARNING - Не удалось проверить сайт https://alliance-perevod.ru/: HTTPSConnectionPool(host='alliance-perevod.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='alliance-perevod.ru', port=443): Failed to resolve 'alliance-perevod.ru' ([Errno 11001] getaddrinfo failed)"))
+2025-12-15 17:04:34,749 - INFO -   ✓ Добавлена: Альянс-Перевод (880,028,906 ₽)
+2025-12-15 17:04:38,432 - INFO - Обрабатываю компанию 15/65: Бюро переводов Грамота
+2025-12-15 17:04:42,009 - WARNING - Не удалось проверить сайт https://gramota-perevod.ru/: HTTPSConnectionPool(host='gramota-perevod.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='gramota-perevod.ru', port=443): Failed to resolve 'gramota-perevod.ru' ([Errno 11001] getaddrinfo failed)"))
+2025-12-15 17:04:42,009 - INFO -   ✓ Добавлена: Бюро переводов Грамота (1,469,422,875 ₽)
+2025-12-15 17:04:47,906 - INFO - Обрабатываю компанию 16/65: Московский переводчик
+2025-12-15 17:04:53,244 - WARNING - Не удалось проверить сайт https://mosperevod.ru/: HTTPSConnectionPool(host='mosperevod.ru', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPSConnection(host='mosperevod.ru', port=443): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение"))
+2025-12-15 17:04:53,244 - INFO -   ✓ Добавлена: Московский переводчик (1,038,262,944 ₽)
+2025-12-15 17:04:57,215 - INFO - Обрабатываю компанию 17/65: Переводы.ру
+2025-12-15 17:05:00,601 - INFO -   ✓ Добавлена: Переводы.ру (2,692,840,529 ₽)
+2025-12-15 17:05:03,423 - INFO - Обрабатываю компанию 18/65: ЛингваМир
+2025-12-15 17:05:07,147 - WARNING - Не удалось проверить сайт https://lingvamir.ru/: HTTPSConnectionPool(host='lingvamir.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='lingvamir.ru', port=443): Failed to resolve 'lingvamir.ru' ([Errno 11001] getaddrinfo failed)"))
+2025-12-15 17:05:07,147 - INFO -   ✓ Добавлена: ЛингваМир (901,903,300 ₽)
+2025-12-15 17:05:10,829 - INFO - Обрабатываю компанию 19/65: Академия перевода
+2025-12-15 17:05:15,489 - WARNING - Не удалось проверить сайт https://akademperevoda.ru/: HTTPSConnectionPool(host='akademperevoda.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='akademperevoda.ru', port=443): Failed to resolve 'akademperevoda.ru' ([Errno 11001] getaddrinfo failed)"))
+2025-12-15 17:05:15,489 - INFO -   ✓ Добавлена: Академия перевода (3,295,982,388 ₽)
+2025-12-15 17:05:19,216 - INFO - Обрабатываю компанию 20/65: Бюро переводов Языковые решения
+2025-12-15 17:05:22,739 - WARNING - Не удалось проверить сайт https://yazresheniya.ru/: HTTPSConnectionPool(host='yazresheniya.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='yazresheniya.ru', port=443): Failed to resolve 'yazresheniya.ru' ([Errno 11001] getaddrinfo failed)"))
+2025-12-15 17:05:22,739 - INFO -   ✓ Добавлена: Бюро переводов Языковые решения (1,949,429,746 ₽)
+2025-12-15 17:05:28,859 - INFO - Обрабатываю компанию 21/65: Яндекс
+2025-12-15 17:05:29,850 - ERROR - Ошибка обработки компании Яндекс: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 17:05:29,850 - INFO - Обрабатываю компанию 22/65: VK
+2025-12-15 17:05:31,014 - ERROR - Ошибка обработки компании VK: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 17:05:31,015 - INFO - Обрабатываю компанию 23/65: Сбер
+2025-12-15 17:05:34,630 - INFO -   ✓ Добавлена: Сбер (1,109,911,991 ₽)
+2025-12-15 17:05:36,725 - INFO - Обрабатываю компанию 24/65: Тинькофф
+2025-12-15 17:05:38,476 - ERROR - Ошибка обработки компании Тинькофф: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 17:05:38,476 - INFO - Обрабатываю компанию 25/65: МТС
+2025-12-15 17:05:42,808 - INFO -   ✓ Добавлена: МТС (1,073,881,677 ₽)
+2025-12-15 17:05:50,215 - INFO - Обрабатываю компанию 26/65: Билайн
+2025-12-15 17:06:22,353 - ERROR - Ошибка обработки компании Билайн: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 17:06:22,353 - INFO - Обрабатываю компанию 27/65: МегаФон
+2025-12-15 17:06:55,363 - ERROR - Ошибка обработки компании МегаФон: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 17:06:55,363 - INFO - Обрабатываю компанию 28/65: Ростелеком
+2025-12-15 17:06:58,153 - WARNING - Не удалось проверить сайт https://rostelecom.ru/: HTTPSConnectionPool(host='rostelecom.ru', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rostelecom.ru'. (_ssl.c:997)")))
+2025-12-15 17:06:58,153 - INFO -   ✓ Добавлена: Ростелеком (432,834,479 ₽)
+2025-12-15 17:07:00,162 - INFO - Обрабатываю компанию 29/65: Лаборатория Касперского
+2025-12-15 17:07:03,578 - INFO -   ✓ Добавлена: Лаборатория Касперского (120,644,684 ₽)
+2025-12-15 17:07:06,013 - INFO - Обрабатываю компанию 30/65: 1С
+2025-12-15 17:07:08,748 - INFO -   ✓ Добавлена: 1С (2,732,994,761 ₽)
+2025-12-15 17:07:18,601 - INFO - Обрабатываю компанию 31/65: Mail.ru Group
+2025-12-15 17:07:21,735 - INFO -   ✓ Добавлена: Mail.ru Group (1,459,487,858 ₽)
+2025-12-15 17:07:23,889 - INFO - Обрабатываю компанию 32/65: Одноклассники
+2025-12-15 17:07:28,084 - INFO -   ✓ Добавлена: Одноклассники (2,262,883,223 ₽)
+2025-12-15 17:07:32,042 - INFO - Обрабатываю компанию 33/65: КАМАЗ
+2025-12-15 17:07:36,082 - INFO -   ✓ Добавлена: КАМАЗ (1,591,145,247 ₽)
+2025-12-15 17:07:39,341 - INFO - Обрабатываю компанию 34/65: ГАЗ
+2025-12-15 17:07:43,263 - INFO -   ✓ Добавлена: ГАЗ (739,848,077 ₽)
+2025-12-15 17:07:46,940 - INFO - Обрабатываю компанию 35/65: АвтоВАЗ
+2025-12-15 17:07:50,808 - INFO -   ✓ Добавлена: АвтоВАЗ (2,201,592,084 ₽)
+2025-12-15 17:07:57,144 - INFO - Обрабатываю компанию 36/65: Уралвагонзавод
+2025-12-15 17:07:59,797 - WARNING - Не удалось проверить сайт https://uvz.ru/: HTTPSConnectionPool(host='uvz.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='uvz.ru', port=443): Failed to resolve 'uvz.ru' ([Errno 11001] getaddrinfo failed)"))
+2025-12-15 17:07:59,797 - INFO -   ✓ Добавлена: Уралвагонзавод (799,729,294 ₽)
+2025-12-15 17:08:03,759 - INFO - Обрабатываю компанию 37/65: Силовые машины
+2025-12-15 17:08:07,408 - INFO -   ✓ Добавлена: Силовые машины (3,818,310,201 ₽)
+2025-12-15 17:08:10,532 - INFO - Обрабатываю компанию 38/65: Объединенная авиастроительная корпорация
+2025-12-15 17:08:12,571 - ERROR - Ошибка обработки компании Объединенная авиастроительная корпорация: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 17:08:12,571 - INFO - Обрабатываю компанию 39/65: Объединенная судостроительная корпорация
+2025-12-15 17:08:19,548 - INFO -   ✓ Добавлена: Объединенная судостроительная корпорация (900,688,212 ₽)
+2025-12-15 17:08:23,171 - INFO - Обрабатываю компанию 40/65: Фармстандарт
+2025-12-15 17:08:24,612 - ERROR - Ошибка обработки компании Фармстандарт: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 17:08:24,612 - INFO - Обрабатываю компанию 41/65: Биокад
+2025-12-15 17:08:28,052 - INFO -   ✓ Добавлена: Биокад (2,896,034,087 ₽)
+2025-12-15 17:08:31,806 - INFO - Обрабатываю компанию 42/65: Генериум
+2025-12-15 17:08:39,682 - INFO -   ✓ Добавлена: Генериум (650,036,145 ₽)
+2025-12-15 17:08:42,918 - INFO - Обрабатываю компанию 43/65: Р-Фарм
+2025-12-15 17:08:46,196 - INFO -   ✓ Добавлена: Р-Фарм (3,167,195,530 ₽)
+2025-12-15 17:08:49,518 - INFO - Обрабатываю компанию 44/65: ВЕРТЕКС
+2025-12-15 17:08:53,626 - WARNING - Не удалось проверить сайт https://vertex.ru/: HTTPSConnectionPool(host='vertex.ru', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)')))
+2025-12-15 17:08:53,626 - INFO -   ✓ Добавлена: ВЕРТЕКС (3,279,344,747 ₽)
+2025-12-15 17:08:57,024 - INFO - Обрабатываю компанию 45/65: Wildberries
+2025-12-15 17:09:01,394 - INFO -   ✓ Добавлена: Wildberries (508,297,157 ₽)
+2025-12-15 17:09:07,041 - INFO - Обрабатываю компанию 46/65: OZON
+2025-12-15 17:09:10,646 - INFO -   ✓ Добавлена: OZON (1,647,448,912 ₽)
+2025-12-15 17:09:13,825 - INFO - Обрабатываю компанию 47/65: М.Видео
+2025-12-15 17:09:17,429 - INFO -   ✓ Добавлена: М.Видео (2,525,074,857 ₽)
+2025-12-15 17:09:20,555 - INFO - Обрабатываю компанию 48/65: Эльдорадо
+2025-12-15 17:09:22,992 - INFO -   ✓ Добавлена: Эльдорадо (761,125,078 ₽)
+2025-12-15 17:09:26,213 - INFO - Обрабатываю компанию 49/65: Мир
+2025-12-15 17:09:27,891 - WARNING - Не удалось проверить сайт https://mironline.ru/: HTTPSConnectionPool(host='mironline.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='mironline.ru', port=443): Failed to resolve 'mironline.ru' ([Errno 11001] getaddrinfo failed)"))
+2025-12-15 17:09:27,891 - ERROR - Ошибка обработки компании Мир: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 17:09:27,891 - INFO - Обрабатываю компанию 50/65: Ситилинк
+2025-12-15 17:09:40,768 - INFO -   ✓ Добавлена: Ситилинк (2,900,976,464 ₽)
+2025-12-15 17:09:50,578 - INFO - Обрабатываю компанию 51/65: Альфа-Банк
+2025-12-15 17:09:51,754 - ERROR - Ошибка обработки компании Альфа-Банк: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 17:09:51,755 - INFO - Обрабатываю компанию 52/65: ВТБ
+2025-12-15 17:09:57,332 - ERROR - Ошибка обработки компании ВТБ: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 17:09:57,332 - INFO - Обрабатываю компанию 53/65: Россельхозбанк
+2025-12-15 17:09:58,558 - ERROR - Ошибка обработки компании Россельхозбанк: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 17:09:58,558 - INFO - Обрабатываю компанию 54/65: Открытие
+2025-12-15 17:09:59,488 - ERROR - Ошибка обработки компании Открытие: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 17:09:59,488 - INFO - Обрабатываю компанию 55/65: Совкомбанк
+2025-12-15 17:10:00,431 - ERROR - Ошибка обработки компании Совкомбанк: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 17:10:00,431 - INFO - Обрабатываю компанию 56/65: Аэрофлот
+2025-12-15 17:10:01,187 - ERROR - Ошибка обработки компании Аэрофлот: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 17:10:01,187 - INFO - Обрабатываю компанию 57/65: S7 Airlines
+2025-12-15 17:10:04,393 - INFO -   ✓ Добавлена: S7 Airlines (578,214,676 ₽)
+2025-12-15 17:10:07,123 - INFO - Обрабатываю компанию 58/65: Utair
+2025-12-15 17:10:10,465 - INFO -   ✓ Добавлена: Utair (3,262,947,089 ₽)
+2025-12-15 17:10:12,945 - INFO - Обрабатываю компанию 59/65: Тез Тур
+2025-12-15 17:10:16,756 - INFO -   ✓ Добавлена: Тез Тур (1,049,462,861 ₽)
+2025-12-15 17:10:19,545 - INFO - Обрабатываю компанию 60/65: Coral Travel
+2025-12-15 17:10:20,365 - WARNING - Не удалось проверить сайт https://coraltravel.ru/: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+2025-12-15 17:10:20,365 - ERROR - Ошибка обработки компании Coral Travel: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 17:10:20,366 - INFO - Обрабатываю компанию 61/65: Skyeng
+2025-12-15 17:10:24,028 - INFO -   ✓ Добавлена: Skyeng (2,450,399,188 ₽)
+2025-12-15 17:10:27,260 - INFO - Обрабатываю компанию 62/65: Нетология
+2025-12-15 17:10:30,610 - INFO -   ✓ Добавлена: Нетология (1,714,638,858 ₽)
+2025-12-15 17:10:33,310 - INFO - Обрабатываю компанию 63/65: GeekBrains
+2025-12-15 17:10:37,408 - INFO -   ✓ Добавлена: GeekBrains (587,676,944 ₽)
+2025-12-15 17:10:41,157 - INFO - Обрабатываю компанию 64/65: Skillbox
+2025-12-15 17:10:43,989 - INFO -   ✓ Добавлена: Skillbox (2,429,084,807 ₽)
+2025-12-15 17:10:46,502 - INFO - Обрабатываю компанию 65/65: Учи.ру
+2025-12-15 17:10:49,179 - INFO -   ✓ Добавлена: Учи.ру (2,822,195,789 ₽)
+2025-12-15 17:11:46,242 - INFO - Начинаю сбор данных для 65 компаний
+2025-12-15 17:11:46,243 - INFO - Обрабатываю компанию 1/65: АББВЫ
+2025-12-15 17:11:47,124 - WARNING - Не удалось проверить сайт https://www.abbyy.ru/: HTTPSConnectionPool(host='www.abbyy.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='www.abbyy.ru', port=443): Failed to resolve 'www.abbyy.ru' ([Errno 11001] getaddrinfo failed)"))
+2025-12-15 17:11:47,124 - ERROR - Ошибка обработки компании АББВЫ: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 17:11:47,124 - INFO - Обрабатываю компанию 2/65: ПРОМТ
+2025-12-15 17:12:01,457 - INFO -   ✓ Добавлена: ПРОМТ (229,404,861 ₽)
+2025-12-15 17:12:03,876 - INFO - Обрабатываю компанию 3/65: Бюро переводов iTrex
+2025-12-15 17:13:16,231 - INFO -   ✓ Добавлена: Бюро переводов iTrex (212,860,619 ₽)
+2025-12-15 17:13:18,480 - INFO - Обрабатываю компанию 4/65: ТрансЛинк
+2025-12-15 17:13:21,618 - WARNING - Не удалось проверить сайт https://www.translink.ru/: HTTPSConnectionPool(host='www.translink.ru', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPSConnection(host='www.translink.ru', port=443): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение"))
+2025-12-15 17:13:21,618 - ERROR - Ошибка обработки компании ТрансЛинк: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 17:13:21,618 - INFO - Обрабатываю компанию 5/65: НеоТек
+2025-12-15 17:13:25,785 - INFO -   ✓ Добавлена: НеоТек (2,975,810,435 ₽)
+2025-12-15 17:13:33,028 - INFO - Обрабатываю компанию 6/65: Бюро переводов Альба
+2025-12-15 17:13:35,906 - INFO -   ✗ Пропущена (малая выручка): Бюро переводов Альба
+2025-12-15 17:13:39,557 - INFO - Обрабатываю компанию 7/65: Мир перевода
+2025-12-15 17:13:42,595 - INFO -   ✓ Добавлена: Мир перевода (757,068,486 ₽)
+2025-12-15 17:13:45,864 - INFO - Обрабатываю компанию 8/65: Прима Виста
+2025-12-15 17:17:49,092 - INFO -   ✓ Добавлена: Прима Виста (1,719,080,180 ₽)
+2025-12-15 17:17:52,041 - INFO - Обрабатываю компанию 9/65: ЛингваКонтакт
+2025-12-15 17:17:54,402 - INFO -   ✓ Добавлена: ЛингваКонтакт (349,732,991 ₽)
+2025-12-15 17:17:57,053 - INFO - Обрабатываю компанию 10/65: Лингвотек
+2025-12-15 17:17:59,205 - WARNING - Не удалось проверить сайт https://lingvotek.ru/: HTTPSConnectionPool(host='lingvotek.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='lingvotek.ru', port=443): Failed to resolve 'lingvotek.ru' ([Errno 11001] getaddrinfo failed)"))
+2025-12-15 17:17:59,205 - INFO -   ✗ Пропущена (малая выручка): Лингвотек
+2025-12-15 17:18:04,631 - INFO - Обрабатываю компанию 11/65: ТопПеревод
+2025-12-15 17:18:07,952 - WARNING - Не удалось проверить сайт https://top-perevod.ru/: HTTPSConnectionPool(host='top-perevod.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='top-perevod.ru', port=443): Failed to resolve 'top-perevod.ru' ([Errno 11001] getaddrinfo failed)"))
+2025-12-15 17:18:07,952 - INFO -   ✓ Добавлена: ТопПеревод (330,563,575 ₽)
+2025-12-15 17:18:10,591 - INFO - Обрабатываю компанию 12/65: РГ-Техно
+2025-12-15 17:18:14,498 - INFO -   ✓ Добавлена: РГ-Техно (539,013,182 ₽)
+2025-12-15 17:18:17,384 - INFO - Обрабатываю компанию 13/65: Фларус
+2025-12-15 17:18:22,004 - INFO -   ✓ Добавлена: Фларус (692,273,235 ₽)
+2025-12-15 17:18:24,830 - INFO - Обрабатываю компанию 14/65: Альянс-Перевод
+2025-12-15 17:18:27,167 - WARNING - Не удалось проверить сайт https://alliance-perevod.ru/: HTTPSConnectionPool(host='alliance-perevod.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='alliance-perevod.ru', port=443): Failed to resolve 'alliance-perevod.ru' ([Errno 11001] getaddrinfo failed)"))
+2025-12-15 17:18:27,167 - INFO -   ✓ Добавлена: Альянс-Перевод (1,886,138,072 ₽)
+2025-12-15 17:18:30,520 - INFO - Обрабатываю компанию 15/65: Бюро переводов Грамота
+2025-12-15 17:18:33,752 - WARNING - Не удалось проверить сайт https://gramota-perevod.ru/: HTTPSConnectionPool(host='gramota-perevod.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='gramota-perevod.ru', port=443): Failed to resolve 'gramota-perevod.ru' ([Errno 11001] getaddrinfo failed)"))
+2025-12-15 17:18:33,752 - INFO -   ✓ Добавлена: Бюро переводов Грамота (3,830,392,192 ₽)
+2025-12-15 17:18:41,031 - INFO - Обрабатываю компанию 16/65: Московский переводчик
+2025-12-15 17:18:46,944 - WARNING - Не удалось проверить сайт https://mosperevod.ru/: HTTPSConnectionPool(host='mosperevod.ru', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPSConnection(host='mosperevod.ru', port=443): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение"))
+2025-12-15 17:18:46,945 - INFO -   ✓ Добавлена: Московский переводчик (1,858,097,644 ₽)
+2025-12-15 17:18:50,543 - INFO - Обрабатываю компанию 17/65: Переводы.ру
+2025-12-15 17:18:54,541 - INFO -   ✗ Пропущена (малая выручка): Переводы.ру
+2025-12-15 17:18:56,700 - INFO - Обрабатываю компанию 18/65: ЛингваМир
+2025-12-15 17:18:59,080 - WARNING - Не удалось проверить сайт https://lingvamir.ru/: HTTPSConnectionPool(host='lingvamir.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='lingvamir.ru', port=443): Failed to resolve 'lingvamir.ru' ([Errno 11001] getaddrinfo failed)"))
+2025-12-15 17:18:59,080 - INFO -   ✓ Добавлена: ЛингваМир (1,045,902,940 ₽)
+2025-12-15 17:19:02,853 - INFO - Обрабатываю компанию 19/65: Академия перевода
+2025-12-15 17:19:05,330 - WARNING - Не удалось проверить сайт https://akademperevoda.ru/: HTTPSConnectionPool(host='akademperevoda.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='akademperevoda.ru', port=443): Failed to resolve 'akademperevoda.ru' ([Errno 11001] getaddrinfo failed)"))
+2025-12-15 17:19:05,330 - INFO -   ✓ Добавлена: Академия перевода (567,690,611 ₽)
+2025-12-15 17:19:09,034 - INFO - Обрабатываю компанию 20/65: Бюро переводов Языковые решения
+2025-12-15 17:19:11,854 - WARNING - Не удалось проверить сайт https://yazresheniya.ru/: HTTPSConnectionPool(host='yazresheniya.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='yazresheniya.ru', port=443): Failed to resolve 'yazresheniya.ru' ([Errno 11001] getaddrinfo failed)"))
+2025-12-15 17:19:11,854 - INFO -   ✓ Добавлена: Бюро переводов Языковые решения (2,792,935,429 ₽)
+2025-12-15 17:19:18,014 - INFO - Обрабатываю компанию 21/65: Яндекс
+2025-12-15 17:19:19,054 - ERROR - Ошибка обработки компании Яндекс: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 17:19:19,054 - INFO - Обрабатываю компанию 22/65: VK
+2025-12-15 17:19:20,289 - ERROR - Ошибка обработки компании VK: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 17:19:20,289 - INFO - Обрабатываю компанию 23/65: Сбер
+2025-12-15 17:19:23,720 - INFO -   ✓ Добавлена: Сбер (2,809,502,918 ₽)
+2025-12-15 17:19:26,451 - INFO - Обрабатываю компанию 24/65: Тинькофф
+2025-12-15 17:19:28,041 - ERROR - Ошибка обработки компании Тинькофф: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 17:19:28,041 - INFO - Обрабатываю компанию 25/65: МТС
+2025-12-15 17:19:32,097 - INFO -   ✓ Добавлена: МТС (1,997,273,058 ₽)
+2025-12-15 17:19:38,977 - INFO - Обрабатываю компанию 26/65: Билайн
+2025-12-15 17:20:08,714 - ERROR - Ошибка обработки компании Билайн: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 17:20:08,714 - INFO - Обрабатываю компанию 27/65: МегаФон
+2025-12-15 17:20:39,542 - ERROR - Ошибка обработки компании МегаФон: '>=' not supported between instances of 'NoneType' and 'int'
+2025-12-15 17:20:39,542 - INFO - Обрабатываю компанию 28/65: Ростелеком
